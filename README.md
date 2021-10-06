@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wendy-github-liu
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning advancde SQL, Machine Learning, 
+- 🌱 I’m currently learning advancde SQL, Machine Learning, Data Modeling 
 - 💞️ I’m looking to collaborate on product anlysis and data analysis
 - 📫 How to reach me: wendyliu5608@outlook.com
 
