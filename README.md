@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wendy! Thanks for visiting and I'd love to connect!🥳
 - 👩 Pronouns: she/her
-- 👀 Experienced in data analytics, business anlytics, machine learning, data mining and data visualization 🍭🍫🍿🍩🧁🍤🍣🍔🍟🍕🌮🥐🥞
-- 🌱 Interested in Facial Recognition, Recommender System and Natural Language Process!
+- 👀 Experienced in data analytics, business anlytics, machine learning, data mining and data visualization 🍭🍫🍿🍩🧁🍤🍣🍔🍟🍕🌮
+- 🌱 Interested in Facial Recognition, Recommender System and NLP!
 - 💞️ Peace & Love 😎
 - 📫 How to reach out to me: wendy5608@outlook.com
 
