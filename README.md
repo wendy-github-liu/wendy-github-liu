@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Wendy! I would like to add you to my professional network on the GITHUB.🥳
+- 👋 Hi, I’m Wendy! Thanks for visiting and I'd love to connect!🥳
 - 👩 Pronouns: she/her
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning advanced SQL, Machine Learning, Data Modeling 
-- 💞️ I’m looking to collaborate on product anlysis and data analysis
+- 👀 Experienced in data analytics, business anlytics, machine learning, data mining and data visualization 🍭🍫🍿🍩🧁🍤🍣🍔🍟🍕🌮🥐🥞
+- 🌱 Interested in Facial Recognition, Recommender System and Natural Language Process!
+- 💞️ Peace & Love 😎
 - 📫 How to reach out to me: wendy5608@outlook.com
 
 <!---
