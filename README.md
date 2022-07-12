@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wendy! Thanks for visiting and I'd love to connect!🥳
 - 👩 Pronouns: she/her
-- 💞️ Peace & Love 😎
+- 💞️ Using data to better understand the world 💖
 - 📫 How to reach out to me: wendy5608@outlook.com
 
 <!---
